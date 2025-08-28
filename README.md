@@ -22,15 +22,16 @@ Contact form with success/error message using EmailJS
 
 ## Technologies Used
 
-React – for pages and components
+React - for pages and components
 
-React Router – for navigation between pages
+React Router - for navigation between pages
 
-CSS – for styling and responsive design
+CSS - for styling and responsive design
 
-Open Library API – to get book data
+Open Library API - to get book data
 
-EmailJS – to send contact messages
+EmailJS - to send contact messages
 
-react-icons – for icons
+react-icons - for icons
+
 
